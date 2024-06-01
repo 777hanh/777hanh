@@ -6,7 +6,7 @@
 
 <!-- Badges -->
 <p>
-<h1 align="center"><img src="https://img.shields.io/github/followers/777hanh?style=social&label=follow" style="margin-right: 16px;"><img src="https://img.shields.io/github/stars/777hanh?style=social"></a></h1></br>
+<h1 align="center"><img src="https://img.shields.io/github/followers/777hanh?style=social&label=follow" style="margin-right: 16px; display:inline-block;" alt="777hanh"><img src="https://img.shields.io/github/stars/777hanh?style=social" alt="777hanh"></a></h1></br>
 
 <h5 align="center"><b>Connect With Me > </b></h5>
 
